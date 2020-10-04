@@ -1,0 +1,33 @@
+body {
+    font-family: Roboto;
+}
+#body-content{
+    margin-top: 50px;
+}
+.nav-wrapper{
+    width: 80%;
+    margin: auto;
+}
+.banner {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.banner .padang-img {
+    width: 100%;
+}
+.btn-banner {
+    margin-left: 12%;
+}
+.card img {
+    width: auto;
+    height: 300px;
+}
+.card-store img {
+    width: 100%;
+    height: auto;
+}
+.profile i {
+    font-size: 12em;
+    margin: 40px 0;
+}
